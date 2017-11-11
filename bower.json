@@ -1,0 +1,20 @@
+{
+  "name": "angularproject",
+  "description": "bower install bootstrap --save",
+  "main": "bower install angular --save",
+  "authors": [
+    "bogdan vlad"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/bogdan-vlad/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.6"
+  }
+}
